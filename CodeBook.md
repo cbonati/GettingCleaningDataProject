@@ -12,15 +12,13 @@ These signals were used to estimate variables of the feature vector for each pat
 The set of variables that were estimated from these signals are Mean (Mean value) and Std (Standard deviation)
 
 The dataset TidyDataset contains 180 observations of 68 variables.
-The 180 observations come
-    from 6 activities:
-        * 1. WALKING
-        * 2. WALKING_UPSTAIRS
-        *3. WALKING_DOWNSTAIRS
-        *4. SITTING
-        *5. STANDING
-        *6. LAYING
-    and from 30 subjects.
+The 180 observations come from **30 subjects** and from **6 activities**:
+* 1 WALKING
+* 2 WALKING_UPSTAIRS
+* 3 WALKING_DOWNSTAIRS
+* 4 SITTING
+* 5 STANDING
+* 6 LAYING
 
 The 68 (i.e. 2+66) variables are the following:
 
