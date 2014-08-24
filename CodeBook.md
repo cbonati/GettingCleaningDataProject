@@ -9,9 +9,10 @@ Finally a Fast Fourier Transform (FFT) was applied to some of these signals prod
 These signals were used to estimate variables of the feature vector for each pattern:  
   '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
-The set of variables that were estimated from these signals are **Mean** (Mean value) and **Std** (Standard deviation)
+The **set of variables** that were estimated from these signals are **Mean** (Mean value) and **Std** (Standard deviation)
 
-The dataset TidyDataset contains 180 observations of 68 variables.
+**The dataset TidyDataset contains 180 observations of 68 variables.**
+
 The 180 observations come from **30 subjects** and from **6 activities**:
 * 1 WALKING
 * 2 WALKING_UPSTAIRS
