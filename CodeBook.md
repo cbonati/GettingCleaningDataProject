@@ -25,9 +25,9 @@ The 180 observations come
 The 68 (i.e. 2+66) variables are the following:
 
 **Number Name                   Type  Range (Min, Max)**
-01.   Activity                 chr  "WALKING","WALKING_UPSTAIRS","WALKING_DOWNSTAIRS","SITTING","STANDING","LAYING"
-02.   Subject                  int   1, 30
-03   tBodyAccMeanX            num   0.2216, 0.3015
+* 01   Activity                 chr  "WALKING","WALKING_UPSTAIRS","WALKING_DOWNSTAIRS","SITTING","STANDING","LAYING"
+* 02.   Subject                  int   1, 30
+* 03   tBodyAccMeanX            num   0.2216, 0.3015
 04   tBodyAccMeanY            num  -0.040514, -0.001308
 05   tBodyAccMeanZ            num  -0.15251, -0.07538
 06   tBodyAccStdX             num  -0.9961, 0.6269
