@@ -19,7 +19,7 @@ The obtained dataset has been randomly partitioned into two sets, where 70% of t
 
 # B. The programming process
 
-  The R programming process follows 5 distinct steps:
+The R programming process follows **5 distinct steps**:
 
 1. Merging the training and the test sets to create one data set.
 
