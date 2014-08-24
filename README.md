@@ -29,7 +29,7 @@ The R programming process follows **5 distinct steps**:
 Our assumption is that features like 'fBodyAcc-meanFreq()-X' or 'angle(tBodyAccMean,gravity)' do not really represent a mean.
 Thus, we selected 66 columns. [mean(): 33 matches ; std(): 33 matches]*
 
-3. **Using descriptive activity names** to name the activities in the data set.
+3. **Using descriptive activity names** to name the activities in the dataset.
 
 4. **Labelling** the data set with descriptive variable names.
 
