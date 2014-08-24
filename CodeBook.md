@@ -10,6 +10,14 @@ Finally a Fast Fourier Transform (FFT) was applied to some of these signals prod
 
 These signals were used to estimate variables of the feature vector for each pattern: '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
+The acceleration signal from the smartphone accelerometer X axis in standard gravity units 'g'. 
+
+The body acceleration signal obtained by subtracting the gravity from the total acceleration. 
+
+The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second. 
+
+Features are normalized and bounded within [-1,1].
+
 The **set of variables** that were estimated from these signals are **Mean** (Mean value) and **Std** (Standard deviation).
 
 **The dataset TidyDataset contains 180 observations of 68 variables.**
