@@ -1,7 +1,6 @@
 GettingCleaningDataCourseProject
 ================================
 
-This a the repo of the Getting and Cleaning Data Course Project.
 This README.md file presents an overview of the study and descries how the script (run_analysis.R) works.
 
 # A. Overview of the study
