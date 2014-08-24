@@ -27,7 +27,7 @@ The R programming process follows **5 distinct steps**:
 
 *NB: We only extracted features with 'mean()' or 'std()' in their name.
 Our assumption is that features like 'fBodyAcc-meanFreq()-X' or 'angle(tBodyAccMean,gravity)' do not really represent a mean.
-Thus, we select 66 columns. [mean(): 33 matches ; std(): 33 matches]*
+Thus, we selected 66 columns. [mean(): 33 matches ; std(): 33 matches]*
 
 3. **Using descriptive activity names** to name the activities in the data set.
 
