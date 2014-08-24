@@ -22,9 +22,7 @@ Features are normalized and bounded within [-1,1].
 
 The **set of variables** that were estimated from these signals are **Mean** (Mean value) and **Std** (Standard deviation).
 
-**The dataset TidyDataset contains 180 observations of 68 variables.**
-
-The 180 observations come from **30 subjects** and from **6 activities.**
+The **dataset TidyDataset** contains **180 observations** which come from **30 subjects** and from **6 activities.**
 
 
 
