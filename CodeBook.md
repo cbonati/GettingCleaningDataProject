@@ -1,5 +1,7 @@
 #Code Book
 
+## Overview
+
 The features selected come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ.
 These time domain signals (prefix 't' to denote time) were captured at a constant rate of 50 Hz.
 Then they were filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise.
@@ -23,6 +25,7 @@ The **set of variables** that were estimated from these signals are **Mean** (Me
 **The dataset TidyDataset contains 180 observations of 68 variables.**
 
 The 180 observations come from **30 subjects** and from **6 activities.**
+
 
 
 ## Description of the variables
