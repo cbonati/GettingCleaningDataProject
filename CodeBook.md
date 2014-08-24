@@ -22,7 +22,7 @@ The 180 observations come
         6. LAYING
     and from 30 subjects.
 
-The 68 (i.e. 2+66) variables are the following:
+The 68 (i.e. 2+66) variables are the following: 
 Number Name                     Type  Range (Min, Max)
   1   Activity                : chr  "WALKING","WALKING_UPSTAIRS","WALKING_DOWNSTAIRS","SITTING","STANDING","LAYING"
   2   Subject                 : int   1, 30
