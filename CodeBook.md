@@ -24,6 +24,9 @@ The **set of variables** that were estimated from these signals are **Mean** (Me
 
 The 180 observations come from **30 subjects** and from **6 activities.**
 
+
+## Description of the variables
+
 The **68 variables** (i.e. 2+66) are the following:
 
 **Number Name                   Type  Range (Min, Max)**
