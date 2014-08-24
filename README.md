@@ -33,4 +33,4 @@ Thus, we selected 66 columns. [mean(): 33 matches ; std(): 33 matches]*
 
 * **Labelling** the data set with descriptive variable names.
 
-* **Createing a second tidy dataset** (TidyDataSet.txt) with the average of each variable for each activity and each subject.
+* **Creating a second tidy dataset** (TidyDataSet.txt) with the average of each variable for each activity and each subject.
