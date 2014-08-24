@@ -24,7 +24,8 @@ The R programming process follows **5 distinct steps**:
 1. **Merging** the training and the test sets to create one data set.
 
 2. **Extracting** the measurements on the mean and standard deviation for each measurement.
-*NB: We only extraxct features with 'mean()' or 'std()' in their name.
+
+*NB: We only extracted features with 'mean()' or 'std()' in their name.
 Our assumption is that features like 'fBodyAcc-meanFreq()-X' or 'angle(tBodyAccMean,gravity)' do not really represent a mean.
 Thus, we select 66 columns. [mean(): 33 matches ; std(): 33 matches]*
 
