@@ -28,7 +28,7 @@ The **dataset TidyDataset** contains **180 observations** which come from **30 s
 
 ## Description of the variables
 
-The dataset TinyDataset.txt contains **68 variables** (i.e. 2+66):
+The dataset **TidyDataset.txt** contains **68 variables** (i.e. 2+66):
 
 **Number Name                   Type  Range (Min, Max)**
 * 01   **Activity**                 chr  "WALKING","WALKING_UPSTAIRS","WALKING_DOWNSTAIRS","SITTING","STANDING","LAYING"
