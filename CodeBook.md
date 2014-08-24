@@ -14,13 +14,7 @@ The **set of variables** that were estimated from these signals are **Mean** (Me
 
 **The dataset TidyDataset contains 180 observations of 68 variables.**
 
-The 180 observations come from **30 subjects** and from **6 activities**:
-* 1 WALKING
-* 2 WALKING_UPSTAIRS
-* 3 WALKING_DOWNSTAIRS
-* 4 SITTING
-* 5 STANDING
-* 6 LAYING
+The 180 observations come from **30 subjects** and from **6 activities.**
 
 The **68 variables** (i.e. 2+66) are the following:
 
