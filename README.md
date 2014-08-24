@@ -21,16 +21,16 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 The R programming process follows **5 distinct steps**:
 
-* 1. **Merging** the training and the test sets to create one data set.
+* 1 **Merging** the training and the test sets to create one data set.
 
-* 2. **Extracting** the measurements on the mean and standard deviation for each measurement.
+* 2 **Extracting** the measurements on the mean and standard deviation for each measurement.
 
 *NB: We only extracted features with 'mean()' or 'std()' in their name.
 Our assumption is that features like 'fBodyAcc-meanFreq()-X' or 'angle(tBodyAccMean,gravity)' do not really represent a mean.
 Thus, we selected 66 columns. [mean(): 33 matches ; std(): 33 matches]*
 
-* 3. **Using descriptive activity names** to name the activities in the dataset.
+* 3 **Using descriptive activity names** to name the activities in the dataset.
 
-* 4. **Labelling** the data set with descriptive variable names.
+* 4 **Labelling** the data set with descriptive variable names.
 
-* 5. **Createing a second tidy dataset** (Tidydataset.txt) with the average of each variable for each activity and each subject.
+* 5 **Createing a second tidy dataset** (Tidydataset.txt) with the average of each variable for each activity and each subject.
